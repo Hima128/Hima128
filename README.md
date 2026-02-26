@@ -83,12 +83,12 @@ class Ibrahim:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hima128&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=A78BFA&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hima128&theme=tokyonight&border_radius=12&border=A78BFA&background=0d1117&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hima128&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=A78BFA&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Hima128&theme=tokyonight&border_radius=12&border=A78BFA&background=0D1117&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA&stroke=A78BFA" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hima128&layout=compact&theme=tokyonight&border_radius=12&border_color=A78BFA&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hima128&layout=compact&theme=tokyonight&border_radius=12&border_color=A78BFA&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" width="40%" />
 
 </div>
 
